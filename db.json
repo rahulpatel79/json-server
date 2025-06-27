@@ -1,13 +1,82 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
   ],
   "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "name": "typicode",
+      "id": "9100"
+    }
+  ],
+  "users": [
+    {
+      "id": "dcf3",
+      "name": "Deepak Yadav",
+      "age": 27,
+      "email": "deepak@example.com"
+    },
+    {
+      "id": "c5ab",
+      "name": "Sakshi Jain",
+      "age": 24,
+      "email": "sakshi.jain@example.com"
+    },
+    {
+      "id": "b752",
+      "name": "Neha Kulkarni",
+      "age": 26,
+      "email": "neha.kulkarni@example.com"
+    },
+    {
+      "id": "03d3",
+      "name": "Ravi Malhotra",
+      "age": 31,
+      "email": "ravi.malhotra@example.com"
+    },
+    {
+      "id": "5c6c",
+      "name": "Sneha Reddy",
+      "age": 23,
+      "email": "sneha.reddy@example.com"
+    },
+    {
+      "id": "a052",
+      "name": "raja",
+      "email": "r@com.c",
+      "age": "232"
+    },
+    {
+      "id": "72fe",
+      "name": "raja",
+      "email": "r@com.c",
+      "age": "232"
+    },
+    {
+      "id": "5928",
+      "name": "raja",
+      "email": "r@com.c",
+      "age": "232"
+    }
+  ]
 }
